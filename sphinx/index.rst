@@ -6,10 +6,13 @@
 Sphinx Documentation Website Example
 ====================================
 
+This is a package I am using to learn python documentation using sphinx and google style docstrings.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   summary
    code
 
 
